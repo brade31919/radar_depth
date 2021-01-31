@@ -1,0 +1,12 @@
+*.pyc
+*.ckpt
+*.index
+*.meta
+*.tar
+*.png
+*.jpg
+.idea/
+*.code-workspace
+*.pth.tar
+__pycache__/
+.vscode/
