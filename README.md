@@ -1,6 +1,6 @@
 # Depth Estimation from Monocular Images and Sparse Radar Data
 
-This is the official implementation of the paper "Depth Estimation from Monocular Images and Sparse Radar Data". In this repo, we provide code for dataset preprocessing, training, and evaluation.
+This is the official implementation of the paper [Depth Estimation from Monocular Images and Sparse Radar Data](https://arxiv.org/abs/2010.00058). In this repo, we provide code for dataset preprocessing, training, and evaluation.
 
 Some parts of the implementation are adapted from [sparse-to-dense](https://github.com/fangchangma/sparse-to-dense.pytorch). We thank the authors for sharing their implementation.
 
